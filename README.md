@@ -70,7 +70,7 @@ A comprehensive collection of my professional certifications and completed cours
 </td>
 
 <td width="50%" align="center">
-<img src="certificates/HackerRank Python.jpg" alt="Certificate 6" width="100%"/>
+<img src="certificates/GL Intro to ML.jpg" alt="Certificate 6" width="100%"/>
 <h3>Certificate Name 6</h3>
 <p><strong>Key Learnings & Skills:</strong></p>
 <ul align="left">
@@ -107,7 +107,7 @@ A comprehensive collection of my professional certifications and completed cours
 
 <tr>
 <td width="50%" align="center">
-<img src="path/to/certificate9.png" alt="Certificate 9" width="100%"/>
+<img src="certificates/GL AI.jpg" alt="Certificate 9" width="100%"/>
 <h3>Certificate Name 9</h3>
 <p><strong>Key Learnings & Skills:</strong></p>
 <ul align="left">
@@ -118,7 +118,7 @@ A comprehensive collection of my professional certifications and completed cours
 </td>
 
 <td width="50%" align="center">
-<img src="path/to/certificate10.png" alt="Certificate 10" width="100%"/>
+<img src="certificates/HackerRank Python.jpg" alt="Certificate 10" width="100%"/>
 <h3>Certificate Name 10</h3>
 <p><strong>Key Learnings & Skills:</strong></p>
 <ul align="left">
@@ -131,7 +131,7 @@ A comprehensive collection of my professional certifications and completed cours
 
 <tr>
 <td width="50%" align="center">
-<img src="path/to/certificate11.png" alt="Certificate 11" width="100%"/>
+<img src="certificates/HackerRank CSS.jpg" alt="Certificate 11" width="100%"/>
 <h3>Certificate Name 11</h3>
 <p><strong>Key Learnings & Skills:</strong></p>
 <ul align="left">
@@ -142,7 +142,7 @@ A comprehensive collection of my professional certifications and completed cours
 </td>
 
 <td width="50%" align="center">
-<img src="path/to/certificate12.png" alt="Certificate 12" width="100%"/>
+<img src="certificates/Scaler Python.jpg"" alt="Certificate 12" width="100%"/>
 <h3>Certificate Name 12</h3>
 <p><strong>Key Learnings & Skills:</strong></p>
 <ul align="left">
