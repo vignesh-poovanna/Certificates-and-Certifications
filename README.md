@@ -11,7 +11,7 @@ A comprehensive collection of my professional certifications and completed cours
 <table>
 <tr>
 <td width="50%" align="center">
-<img src="path/to/certificate1.png" alt="Certificate 1" width="100%"/>
+<img src="" alt="Certificate 1" width="100%"/>
 <h3>Certificate Name 1</h3>
 <p><strong>Key Learnings & Skills:</strong></p>
 <ul align="left">
@@ -22,7 +22,7 @@ A comprehensive collection of my professional certifications and completed cours
 </td>
 
 <td width="50%" align="center">
-<img src="path/to/certificate2.png" alt="Certificate 2" width="100%"/>
+<img src="certificates/HP AI.jpg" alt="Certificate 2" width="100%"/>
 <h3>Certificate Name 2</h3>
 <p><strong>Key Learnings & Skills:</strong></p>
 <ul align="left">
@@ -35,7 +35,7 @@ A comprehensive collection of my professional certifications and completed cours
 
 <tr>
 <td width="50%" align="center">
-<img src="path/to/certificate3.png" alt="Certificate 3" width="100%"/>
+<img src="certificates/SimpliLearn x Google Gen AI.jpg" alt="Certificate 3" width="100%"/>
 <h3>Certificate Name 3</h3>
 <p><strong>Key Learnings & Skills:</strong></p>
 <ul align="left">
@@ -46,7 +46,7 @@ A comprehensive collection of my professional certifications and completed cours
 </td>
 
 <td width="50%" align="center">
-<img src="path/to/certificate4.png" alt="Certificate 4" width="100%"/>
+<img src="certificates/GL Reccommender systems.jpg" alt="Certificate 4" width="100%"/>
 <h3>Certificate Name 4</h3>
 <p><strong>Key Learnings & Skills:</strong></p>
 <ul align="left">
@@ -59,7 +59,7 @@ A comprehensive collection of my professional certifications and completed cours
 
 <tr>
 <td width="50%" align="center">
-<img src="path/to/certificate5.png" alt="Certificate 5" width="100%"/>
+<img src="certificates/HP Data Analytics.jpg" alt="Certificate 5" width="100%"/>
 <h3>Certificate Name 5</h3>
 <p><strong>Key Learnings & Skills:</strong></p>
 <ul align="left">
@@ -70,7 +70,7 @@ A comprehensive collection of my professional certifications and completed cours
 </td>
 
 <td width="50%" align="center">
-<img src="path/to/certificate6.png" alt="Certificate 6" width="100%"/>
+<img src="certificates/HackerRank Python.jpg" alt="Certificate 6" width="100%"/>
 <h3>Certificate Name 6</h3>
 <p><strong>Key Learnings & Skills:</strong></p>
 <ul align="left">
@@ -83,7 +83,7 @@ A comprehensive collection of my professional certifications and completed cours
 
 <tr>
 <td width="50%" align="center">
-<img src="path/to/certificate7.png" alt="Certificate 7" width="100%"/>
+<img src="certificates/GfG Swift.jpg" alt="Certificate 7" width="100%"/>
 <h3>Certificate Name 7</h3>
 <p><strong>Key Learnings & Skills:</strong></p>
 <ul align="left">
@@ -94,7 +94,7 @@ A comprehensive collection of my professional certifications and completed cours
 </td>
 
 <td width="50%" align="center">
-<img src="path/to/certificate8.png" alt="Certificate 8" width="100%"/>
+<img src="certificates/Kaggle - generative AI.jpg" alt="Certificate 8" width="100%"/>
 <h3>Certificate Name 8</h3>
 <p><strong>Key Learnings & Skills:</strong></p>
 <ul align="left">
@@ -155,7 +155,7 @@ A comprehensive collection of my professional certifications and completed cours
 
 <tr>
 <td width="50%" align="center">
-<img src="path/to/certificate13.png" alt="Certificate 13" width="100%"/>
+<img src="certificates/CMR AI.jpg" alt="Certificate 13" width="100%"/>
 <h3>Certificate Name 13</h3>
 <p><strong>Key Learnings & Skills:</strong></p>
 <ul align="left">
