@@ -11,7 +11,7 @@ A comprehensive collection of my professional certifications and completed cours
 <table>
 <tr>
 <td width="50%" align="center">
-<img src="" alt="Certificate 1" width="100%"/>
+<img src="certificates/kaggle x google.jpg.jpeg" alt="Certificate 1" width="100%"/>
 <h3>Certificate Name 1</h3>
 <p><strong>Key Learnings & Skills:</strong></p>
 <ul align="left">
@@ -155,8 +155,8 @@ A comprehensive collection of my professional certifications and completed cours
 
 <tr>
 <td width="50%" align="center">
-<img src="certificates/CMR AI.jpg" alt="Certificate 13" width="100%"/>
-<h3>Certificate Name 13</h3>
+<img src="certificates/SoloLearn Python.jpg" alt="Certificate 1" width="100%"/>
+<h3>Certificate Name 1</h3>
 <p><strong>Key Learnings & Skills:</strong></p>
 <ul align="left">
 <li>Skill/concept 1</li>
@@ -166,6 +166,14 @@ A comprehensive collection of my professional certifications and completed cours
 </td>
 
 <td width="50%" align="center">
+<img src="certificates/CMR AI.jpg" alt="Certificate 2" width="100%"/>
+<h3>Certificate Name 2</h3>
+<p><strong>Key Learnings & Skills:</strong></p>
+<ul align="left">
+<li>Skill/concept 1</li>
+<li>Skill/concept 2</li>
+<li>Skill/concept 3</li>
+</ul>
 </td>
 </tr>
 </table>
