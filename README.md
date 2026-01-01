@@ -26,9 +26,9 @@ A comprehensive collection of my professional certifications and completed cours
 <h3>AI for Beginners by HP</h3>
 <p align="left"><strong>Key Learnings & Skills:</strong></p>
 <ul align="left">
-<li>Skill/concept 1</li>
-<li>Skill/concept 2</li>
-<li>Skill/concept 3</li>
+<li>Introduction to AI</li>
+<li>Fundamentas of AI and Machine Learning</li>
+<li>Applicatios and Future scope</li>
 </ul>
 </td>
 </tr>
