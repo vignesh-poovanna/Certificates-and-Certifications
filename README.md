@@ -15,9 +15,9 @@ A comprehensive collection of my professional certifications and completed cours
 <h3>5 Day AI Agent Intensive course with Google</h3>
 <p align="left"><strong>Key Learnings & Skills:</strong></p>
 <ul align="left">
-<li>Skill/concept 1</li>
-<li>Skill/concept 2</li>
-<li>Skill/concept 3</li>
+<li>AI Agent architecture</li>
+<li>Agent tools interoperability</li>
+<li>Multi agent systems production</li>
 </ul>
 </td>
 
@@ -39,9 +39,9 @@ A comprehensive collection of my professional certifications and completed cours
 <h3>Introduction to Generative AI Studio</h3>
 <p align="left"><strong>Key Learnings & Skills:</strong></p>
 <ul align="left">
-<li>Skill/concept 1</li>
-<li>Skill/concept 2</li>
-<li>Skill/concept 3</li>
+<li>Generative AI Studio basics</li>
+<li>Prompt engineering techniques</li>
+<li>Conversation model creation</li>
 </ul>
 </td>
 
@@ -50,7 +50,7 @@ A comprehensive collection of my professional certifications and completed cours
 <h3>Building Reccommender Systems</h3>
 <p align="left"><strong>Key Learnings & Skills:</strong></p>
 <ul align="left">
-<li>Recommender systems basicsa</li>
+<li>Recommender systems basics</li>
 <li>Content-based filtering</li>
 <li>Collaborative filtering algorithms</li>
 </ul>
