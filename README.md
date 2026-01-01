@@ -50,9 +50,9 @@ A comprehensive collection of my professional certifications and completed cours
 <h3>Building Reccommender Systems</h3>
 <p align="left"><strong>Key Learnings & Skills:</strong></p>
 <ul align="left">
-<li>Skill/concept 1</li>
-<li>Skill/concept 2</li>
-<li>Skill/concept 3</li>
+<li>Recommender systems basicsa</li>
+<li>Content-based filtering</li>
+<li>Collaborative filtering algorithms</li>
 </ul>
 </td>
 </tr>
@@ -63,9 +63,9 @@ A comprehensive collection of my professional certifications and completed cours
 <h3>Data Analytics by HP</h3>
 <p align="left"><strong>Key Learnings & Skills:</strong></p>
 <ul align="left">
-<li>Skill/concept 1</li>
-<li>Skill/concept 2</li>
-<li>Skill/concept 3</li>
+<li>Data analytics fundamentals</li>
+<li>Predictive modelling techniques</li>
+<li>Data Visualization</li>
 </ul>
 </td>
 
@@ -74,9 +74,9 @@ A comprehensive collection of my professional certifications and completed cours
 <h3>Introduction to Machine Learning</h3>
 <p align="left"><strong>Key Learnings & Skills:</strong></p>
 <ul align="left">
-<li>Skill/concept 1</li>
-<li>Skill/concept 2</li>
-<li>Skill/concept 3</li>
+<li>Introduction to Machine Learning</li>
+<li>Supervised learning algorithms</li>
+<li>Unsupervised learning methods</li>
 </ul>
 </td>
 </tr>
@@ -87,9 +87,9 @@ A comprehensive collection of my professional certifications and completed cours
 <h3>Basics of Programming in Swift</h3>
 <p align="left"><strong>Key Learnings & Skills:</strong></p>
 <ul align="left">
-<li>Skill/concept 1</li>
-<li>Skill/concept 2</li>
-<li>Skill/concept 3</li>
+<li>Swift basic syntax</li>
+<li>Variables,Functions and OOP in swift</li>
+<li>iOS app development fundamentals</li>
 </ul>
 </td>
 
@@ -98,9 +98,9 @@ A comprehensive collection of my professional certifications and completed cours
 <h3>Python Certification by Kaggle</h3>
 <p align="left"><strong>Key Learnings & Skills:</strong></p>
 <ul align="left">
-<li>Skill/concept 1</li>
-<li>Skill/concept 2</li>
-<li>Skill/concept 3</li>
+<li>Python syntax basics</li>
+<li>Variables,Functions and OOP in swift</li>
+<li>Data Structures</li>
 </ul>
 </td>
 </tr>
@@ -111,9 +111,9 @@ A comprehensive collection of my professional certifications and completed cours
 <h3>Fundamentals of AI</h3>
 <p align="left"><strong>Key Learnings & Skills:</strong></p>
 <ul align="left">
-<li>Skill/concept 1</li>
-<li>Skill/concept 2</li>
-<li>Skill/concept 3</li>
+<li>AI Core concepts</li>
+<li>Machine Learning basics</li>
+<li>Introduction to neural networks</li>
 </ul>
 </td>
 
@@ -122,9 +122,9 @@ A comprehensive collection of my professional certifications and completed cours
 <h3>HackerRank Python Certification</h3>
 <p align="left"><strong>Key Learnings & Skills:</strong></p>
 <ul align="left">
-<li>Skill/concept 1</li>
-<li>Skill/concept 2</li>
-<li>Skill/concept 3</li>
+<li>Python syntax fundamentals</li>
+<li>Data structures</li>
+<li>Basic algorithms and Problem solving</li>
 </ul>
 </td>
 </tr>
@@ -135,20 +135,20 @@ A comprehensive collection of my professional certifications and completed cours
 <h3>HackerRank CSS certification</h3>
 <p align="left"><strong>Key Learnings & Skills:</strong></p>
 <ul align="left">
-<li>Skill/concept 1</li>
-<li>Skill/concept 2</li>
-<li>Skill/concept 3</li>
+<li>CSS Box model</li>
+<li>Flexbox and Grid layouts</li>
+<li>Responsive Web Design</li>
 </ul>
 </td>
 
 <td width="50%" align="center">
 <img src="certificates/Scaler Python.jpg"" alt="Certificate 12" width="100%"/>
-<h3>Complete pyhton certification B Scaler</h3>
+<h3>Complete pyhton certification By Scaler</h3>
 <p align="left"><strong>Key Learnings & Skills:</strong></p>
 <ul align="left">
-<li>Skill/concept 1</li>
-<li>Skill/concept 2</li>
-<li>Skill/concept 3</li>
+<li>Programming in python</li>
+<li>OOP functions</li>
+<li>File handling and Exception handling</li>
 </ul>
 </td>
 </tr>
@@ -159,9 +159,9 @@ A comprehensive collection of my professional certifications and completed cours
 <h3>Sololearn Python</h3>
 <p align="left"><strong>Key Learnings & Skills:</strong></p>
 <ul align="left">
-<li>Skill/concept 1</li>
-<li>Skill/concept 2</li>
-<li>Skill/concept 3</li>
+<li>Programming in python</li>
+<li>OOP functions</li>
+<li>File handling and Exception handling</li>
 </ul>
 </td>
 
@@ -170,9 +170,9 @@ A comprehensive collection of my professional certifications and completed cours
 <h3>AI Certification by CMR university</h3>
 <p align="left"><strong>Key Learnings & Skills:</strong></p>
 <ul align="left">
-<li>Skill/concept 1</li>
-<li>Skill/concept 2</li>
-<li>Skill/concept 3</li>
+<li>AI&ML programming fundamentals</li>
+<li>Machine learning models</li>
+<li>Deep learning techniques and applications</li>
 </ul>
 </td>
 </tr>
