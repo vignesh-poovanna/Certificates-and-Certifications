@@ -186,7 +186,7 @@ A comprehensive collection of my professional certifications and completed cours
 
 Based on the certifications above, I have developed expertise in:
 
-- **Category 1**: Skill, Skill, Skill
+- **Category 1**: Python, Swift, JavaScript, HTML, CSS, C
 - **Category 2**: Skill, Skill, Skill
 - **Category 3**: Skill, Skill, Skill
 
