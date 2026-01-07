@@ -235,40 +235,7 @@ OpenCV • Kaggle • Google AI Studio • HackerRank
 
 ## 📫 Connect With Me
 - 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- 🌐 Portfolio: [Your Portfolio](https://yourportfolio.com)
 - 📧 Email: your.email@example.com
 
 ---
 
-<div align="center">
-
-⭐ **If you find this repository helpful, please consider giving it a star!** ⭐
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen)
-
-</div>
-```
-
-## 📁 Repository Structure
-
-Make sure your folder structure looks like this:
-```
-your-repo/
-├── README.md
-└── certificates/
-    ├── CMR AI.jpg
-    ├── GL AI.jpg
-    ├── GL Intro to ML.jpg
-    ├── GL Reccommender systems.jpg
-    ├── GfG Swift.jpg
-    ├── Google LLM intro.png
-    ├── HP AI.jpg
-    ├── HP Data Analytics.jpg
-    ├── HackerRank CSS.jpg
-    ├── HackerRank Python.jpg
-    ├── Kaggle - generative AI.jpg
-    ├── OpenCV Bootcamp.png
-    ├── Scaler Python.jpg
-    ├── SimpliLearn x Google Gen AI.jpg
-    ├── SoloLearn Python.jpg
-    └── kaggle x google.jpg.jpeg
