@@ -11,6 +11,8 @@ A comprehensive collection of my professional certifications and completed cours
 <tr>
 <td width="50%" valign="top">
 
+<img src="./certificates/kaggle x google.jpg.jpeg" alt="5 Day AI Agent Intensive" width="100%"/>
+
 ### 5 Day AI Agent Intensive course with Google
 **Key Learnings & Skills:**
 - AI Agent architecture
@@ -19,6 +21,8 @@ A comprehensive collection of my professional certifications and completed cours
 
 </td>
 <td width="50%" valign="top">
+
+<img src="./certificates/Google LLM intro.png" alt="Google LLM Introduction" width="100%"/>
 
 ### Google LLM Introduction
 **Key Learnings & Skills:**
@@ -33,6 +37,8 @@ A comprehensive collection of my professional certifications and completed cours
 <tr>
 <td width="50%" valign="top">
 
+<img src="./certificates/OpenCV Bootcamp.png" alt="OpenCV Bootcamp" width="100%"/>
+
 ### OpenCV Bootcamp
 **Key Learnings & Skills:**
 - Computer Vision fundamentals
@@ -42,6 +48,8 @@ A comprehensive collection of my professional certifications and completed cours
 
 </td>
 <td width="50%" valign="top">
+
+<img src="./certificates/HP AI.jpg" alt="AI for Beginners" width="100%"/>
 
 ### AI for Beginners by HP
 **Key Learnings & Skills:**
@@ -55,6 +63,8 @@ A comprehensive collection of my professional certifications and completed cours
 <tr>
 <td width="50%" valign="top">
 
+<img src="./certificates/Kaggle - generative AI.jpg" alt="Generative AI Studio" width="100%"/>
+
 ### Introduction to Generative AI Studio
 **Key Learnings & Skills:**
 - Generative AI Studio basics
@@ -63,6 +73,8 @@ A comprehensive collection of my professional certifications and completed cours
 
 </td>
 <td width="50%" valign="top">
+
+<img src="./certificates/GL Reccommender systems.jpg" alt="Recommender Systems" width="100%"/>
 
 ### Building Recommender Systems
 **Key Learnings & Skills:**
@@ -76,6 +88,8 @@ A comprehensive collection of my professional certifications and completed cours
 <tr>
 <td width="50%" valign="top">
 
+<img src="./certificates/HP Data Analytics.jpg" alt="Data Analytics" width="100%"/>
+
 ### Data Analytics by HP
 **Key Learnings & Skills:**
 - Data analytics fundamentals
@@ -84,6 +98,8 @@ A comprehensive collection of my professional certifications and completed cours
 
 </td>
 <td width="50%" valign="top">
+
+<img src="./certificates/GL Intro to ML.jpg" alt="Machine Learning" width="100%"/>
 
 ### Introduction to Machine Learning
 **Key Learnings & Skills:**
@@ -97,6 +113,8 @@ A comprehensive collection of my professional certifications and completed cours
 <tr>
 <td width="50%" valign="top">
 
+<img src="./certificates/GfG Swift.jpg" alt="Swift Programming" width="100%"/>
+
 ### Basics of Programming in Swift
 **Key Learnings & Skills:**
 - Swift basic syntax
@@ -105,6 +123,8 @@ A comprehensive collection of my professional certifications and completed cours
 
 </td>
 <td width="50%" valign="top">
+
+<img src="./certificates/SimpliLearn x Google Gen AI.jpg" alt="Kaggle Python" width="100%"/>
 
 ### Python Certification by Kaggle
 **Key Learnings & Skills:**
@@ -118,6 +138,8 @@ A comprehensive collection of my professional certifications and completed cours
 <tr>
 <td width="50%" valign="top">
 
+<img src="./certificates/GL AI.jpg" alt="AI Fundamentals" width="100%"/>
+
 ### Fundamentals of AI
 **Key Learnings & Skills:**
 - AI Core concepts
@@ -126,6 +148,8 @@ A comprehensive collection of my professional certifications and completed cours
 
 </td>
 <td width="50%" valign="top">
+
+<img src="./certificates/HackerRank Python.jpg" alt="HackerRank Python" width="100%"/>
 
 ### HackerRank Python Certification
 **Key Learnings & Skills:**
@@ -139,6 +163,8 @@ A comprehensive collection of my professional certifications and completed cours
 <tr>
 <td width="50%" valign="top">
 
+<img src="./certificates/HackerRank CSS.jpg" alt="HackerRank CSS" width="100%"/>
+
 ### HackerRank CSS Certification
 **Key Learnings & Skills:**
 - CSS Box model
@@ -147,6 +173,8 @@ A comprehensive collection of my professional certifications and completed cours
 
 </td>
 <td width="50%" valign="top">
+
+<img src="./certificates/Scaler Python.jpg" alt="Scaler Python" width="100%"/>
 
 ### Complete Python Certification By Scaler
 **Key Learnings & Skills:**
@@ -160,6 +188,8 @@ A comprehensive collection of my professional certifications and completed cours
 <tr>
 <td width="50%" valign="top">
 
+<img src="./certificates/SoloLearn Python.jpg" alt="Sololearn Python" width="100%"/>
+
 ### Sololearn Python
 **Key Learnings & Skills:**
 - Programming in Python
@@ -168,6 +198,8 @@ A comprehensive collection of my professional certifications and completed cours
 
 </td>
 <td width="50%" valign="top">
+
+<img src="./certificates/CMR AI.jpg" alt="CMR AI" width="100%"/>
 
 ### AI Certification by CMR University
 **Key Learnings & Skills:**
@@ -215,3 +247,28 @@ OpenCV • Kaggle • Google AI Studio • HackerRank
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen)
 
 </div>
+```
+
+## 📁 Repository Structure
+
+Make sure your folder structure looks like this:
+```
+your-repo/
+├── README.md
+└── certificates/
+    ├── CMR AI.jpg
+    ├── GL AI.jpg
+    ├── GL Intro to ML.jpg
+    ├── GL Reccommender systems.jpg
+    ├── GfG Swift.jpg
+    ├── Google LLM intro.png
+    ├── HP AI.jpg
+    ├── HP Data Analytics.jpg
+    ├── HackerRank CSS.jpg
+    ├── HackerRank Python.jpg
+    ├── Kaggle - generative AI.jpg
+    ├── OpenCV Bootcamp.png
+    ├── Scaler Python.jpg
+    ├── SimpliLearn x Google Gen AI.jpg
+    ├── SoloLearn Python.jpg
+    └── kaggle x google.jpg.jpeg
