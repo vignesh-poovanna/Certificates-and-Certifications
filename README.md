@@ -229,7 +229,7 @@ Machine Learning • Deep Learning • Neural Networks • Large Language Models
 Data Analytics • Predictive Modeling • Data Visualization • Recommender Systems 
 
 ### 🔧 Tools & Frameworks
-OpenCV • Kaggle • Google AI Studio • HackerRank
+OpenCV • Google AI Studio • Numpy • 
 
 ---
 
