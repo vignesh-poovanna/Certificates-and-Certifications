@@ -223,10 +223,10 @@ Based on the certifications above, I have developed expertise in:
 Python • Swift • JavaScript • HTML • CSS • C
 
 ### 🤖 AI & Machine Learning
-Machine Learning • Deep Learning • Neural Networks • Large Language Models • Generative AI • AI Agents
+Machine Learning • Deep Learning • Neural Networks • Large Language Models • Generative AI • AI Agents • Computer Vision
 
 ### 📈 Data Science & Analytics
-Data Analytics • Predictive Modeling • Data Visualization • Recommender Systems
+Data Analytics • Predictive Modeling • Data Visualization • Recommender Systems 
 
 ### 🔧 Tools & Frameworks
 OpenCV • Kaggle • Google AI Studio • HackerRank
