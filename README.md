@@ -234,7 +234,7 @@ OpenCV • Google AI Studio • Numpy • Pandas • Keras • Tensorflow • St
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- 💼 LinkedIn: [Vignesh Poovanna](https://www.linkedin.com/in/vignesh-poovanna-a-s?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - 📧 Email: vigneshpoovannaas@gmail.com
 
 ---
