@@ -206,6 +206,8 @@ A comprehensive collection of my professional certifications and completed cours
 - AI & ML programming fundamentals
 - Machine learning models
 - Deep learning techniques and applications
+- Basics of Neural networks
+- Introduction to Natural language processing
 
 </td>
 </tr>
