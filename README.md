@@ -1,3 +1,4 @@
+```markdown
 # 🎓 My Certificates & Certifications
 A comprehensive collection of my professional certifications and completed courses, showcasing continuous learning and skill development.
 
@@ -49,6 +50,21 @@ A comprehensive collection of my professional certifications and completed cours
 </td>
 <td width="50%" valign="top">
 
+<img src="./certificates/postmanapi.jpg" alt="Postman API Fundamentals" width="100%"/>
+
+### Postman API Fundamentals Student Expert
+**Key Learnings & Skills:**
+- API fundamentals and REST principles
+- API testing and validation
+- Postman collections and environments
+- API documentation and automation
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
 <img src="./certificates/HP AI.jpg" alt="AI for Beginners" width="100%"/>
 
 ### AI for Beginners by HP
@@ -58,9 +74,6 @@ A comprehensive collection of my professional certifications and completed cours
 - Applications and Future scope
 
 </td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
 <img src="./certificates/Kaggle - generative AI.jpg" alt="Generative AI Studio" width="100%"/>
@@ -72,6 +85,9 @@ A comprehensive collection of my professional certifications and completed cours
 - Conversation model creation
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 <img src="./certificates/GL Reccommender systems.jpg" alt="Recommender Systems" width="100%"/>
@@ -83,9 +99,6 @@ A comprehensive collection of my professional certifications and completed cours
 - Collaborative filtering algorithms
 
 </td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
 <img src="./certificates/HP Data Analytics.jpg" alt="Data Analytics" width="100%"/>
@@ -97,6 +110,9 @@ A comprehensive collection of my professional certifications and completed cours
 - Data Visualization
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 <img src="./certificates/GL Intro to ML.jpg" alt="Machine Learning" width="100%"/>
@@ -108,9 +124,6 @@ A comprehensive collection of my professional certifications and completed cours
 - Unsupervised learning methods
 
 </td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
 <img src="./certificates/GfG Swift.jpg" alt="Swift Programming" width="100%"/>
@@ -122,6 +135,9 @@ A comprehensive collection of my professional certifications and completed cours
 - iOS app development fundamentals
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 <img src="./certificates/SimpliLearn x Google Gen AI.jpg" alt="Kaggle Python" width="100%"/>
@@ -133,9 +149,6 @@ A comprehensive collection of my professional certifications and completed cours
 - Data manipulation techniques
 
 </td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
 <img src="./certificates/GL AI.jpg" alt="AI Fundamentals" width="100%"/>
@@ -147,6 +160,9 @@ A comprehensive collection of my professional certifications and completed cours
 - Introduction to neural networks
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 <img src="./certificates/HackerRank Python.jpg" alt="HackerRank Python" width="100%"/>
@@ -158,9 +174,6 @@ A comprehensive collection of my professional certifications and completed cours
 - Basic algorithms and Problem solving
 
 </td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
 <img src="./certificates/HackerRank CSS.jpg" alt="HackerRank CSS" width="100%"/>
@@ -172,6 +185,9 @@ A comprehensive collection of my professional certifications and completed cours
 - Responsive Web Design
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 <img src="./certificates/Scaler Python.jpg" alt="Scaler Python" width="100%"/>
@@ -183,9 +199,6 @@ A comprehensive collection of my professional certifications and completed cours
 - File handling and Exception handling
 
 </td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
 <img src="./certificates/SoloLearn Python.jpg" alt="Sololearn Python" width="100%"/>
@@ -197,6 +210,9 @@ A comprehensive collection of my professional certifications and completed cours
 - File handling and Exception handling
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 <img src="./certificates/CMR AI.jpg" alt="CMR AI" width="100%"/>
@@ -208,6 +224,9 @@ A comprehensive collection of my professional certifications and completed cours
 - Deep learning techniques and applications
 - Basics of Neural networks
 - Introduction to Natural language processing
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>
@@ -231,7 +250,10 @@ Machine Learning • Deep Learning • Neural Networks • Large Language Models
 Data Analytics • Predictive Modeling • Data Visualization • Recommender Systems 
 
 ### 🔧 Tools & Frameworks
-OpenCV • Google AI Studio • Numpy • Pandas • Keras • Tensorflow • Streamlit • Tailwind CSS • SDV
+OpenCV • Google AI Studio • Numpy • Pandas • Keras • Tensorflow • Streamlit • Tailwind CSS • SDV • Postman
+
+### 🌐 API Development & Testing
+Postman API • API Testing • RESTful API Design
 
 ---
 
@@ -240,4 +262,4 @@ OpenCV • Google AI Studio • Numpy • Pandas • Keras • Tensorflow • St
 - 📧 Email: vigneshpoovannaas@gmail.com
 
 ---
-
+```
