@@ -1,4 +1,4 @@
-```markdown
+
 # 🎓 My Certificates & Certifications
 A comprehensive collection of my professional certifications and completed courses, showcasing continuous learning and skill development.
 
@@ -262,4 +262,3 @@ Postman API • API Testing • RESTful API Design
 - 📧 Email: vigneshpoovannaas@gmail.com
 
 ---
-```
